@@ -1,4 +1,4 @@
-O objetivo deste laboratório é **automatizar a execução de uma função Lambda** sempre que um arquivo for enviado (upload) para um bucket S3.  
+O objetivo é **automatizar a execução de uma função Lambda** sempre que um arquivo for enviado (upload) para um bucket S3.  
 O projeto demonstra o uso de **eventos do S3 como gatilho (trigger)** para execução de código automatizado.
 
 ---
